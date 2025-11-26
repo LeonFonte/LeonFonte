@@ -19,9 +19,9 @@ Sou um profissional polímata que inclui constantes estudos e serviços em **Tec
 
 #### 2. 🧠 Humanidades & Educação (O Diferencial)
 *Entendendo pessoas e processos de aprendizado*
-* **Pós-Graduação:** Neurociências, Linguagens e Filosofia (em curso)
+* **Pós-Graduação:** Neurociências, Linguagens e Filosofia *(em curso)*
 * **Pós-Graduação:** Arteterapia | Arte e Educação
-* **Pós-Graduação:** Docência no Ensino Básico e Superior (em curso)
+* **Pós-Graduação:** Docência no Ensino Básico e Superior *(em curso)*
 * **Licenciatura:** Pedagogia (Foco em Didática)
 
 #### 3. 🏛️ Gestão & Estratégia (A Base)
