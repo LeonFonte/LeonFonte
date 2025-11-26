@@ -2,7 +2,7 @@
 
 > *"Unindo a lógica da programação à sensibilidade da Arteterapia e Neurociência para criar soluções tecnológicas humanizadas."*
 
-Sou um profissional polímata em transição para a Tecnologia da Informação, trazendo uma bagagem robusta de **Administração** e **Educação**. Atualmente focado no desenvolvimento Full Stack e na intersecção entre Tecnologia e Desenvolvimento Humano (EdTech/HealthTech).
+Sou um profissional polímata que inclui constantes estudos e serviços em Tecnologia da Informação, trazendo uma bagagem robusta de **Administração** e **Educação**. Atualmente focado no desenvolvimento Full Stack e na intersecção entre Tecnologia, Arte e Desenvolvimento Humano (EdTech/HealthTech).
 
 ---
 
@@ -63,7 +63,7 @@ Sou um profissional polímata em transição para a Tecnologia da Informação, 
 Além do código, sou músico e pesquisador de temas espirituais.
 
 * **🎵 Álbum Autoral ELOnARTE (Dez/2025):** Composição e produção de músicas (MPB, Soul, Celtic) inspiradas em Arquétipos Maias e espiritualidade.
-* **🖌️ Arteterapia:** Pesquisa sobre o impacto da arte na inclusão e no ensino.
+* **🖌️ Arteterapia:** Projetos sobre o impacto da arte na inclusão e no ensino.
 
 ---
 
