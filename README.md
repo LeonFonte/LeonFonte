@@ -1,4 +1,4 @@
-![Banner Profile](https://placehold.co/1500x500/202020/white?text=Desenvolvimento+Full+Stack+%2B+Gestão+Multidisciplinar&font=montserrat](https://media.licdn.com/dms/image/v2/D4D16AQE2T_sh7Sxlqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714174581207?e=1766016000&v=beta&t=S6JuYvfmcNEbF_xUiB-LCEXAzhDkQH8lGWge8nN-LBU)
+![Banner Profile](https://media.licdn.com/dms/image/v2/D4D16AQE2T_sh7Sxlqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714174581207?e=1766016000&v=beta&t=S6JuYvfmcNEbF_xUiB-LCEXAzhDkQH8lGWge8nN-LBU](https://media.licdn.com/dms/image/v2/D4D16AQE2T_sh7Sxlqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714174581207?e=1766016000&v=beta&t=S6JuYvfmcNEbF_xUiB-LCEXAzhDkQH8lGWge8nN-LBU)
 
 <div align="center">
 
